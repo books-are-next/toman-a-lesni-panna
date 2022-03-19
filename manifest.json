@@ -1,0 +1,369 @@
+{
+  "author": "František Ladislav Čelakovský",
+  "contenttype": "poetry",
+  "identifier": "celakovsky-toman-a-lesni-panna-1e34e03",
+  "languagecode": "cs",
+  "modified": "2018-11-06T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Toman a lesní panna",
+  "revision": "1e34e03",
+  "generatedAt": {
+    "date": "Sat Mar 19 2022 10:46:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647686787039
+  },
+  "documents": [
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "toman_a_lesni_panna_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "toman_a_lesni_panna_001.html",
+      "next": "toman_a_lesni_panna_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_003.html",
+      "words": 7,
+      "chars": 48,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "toman_a_lesni_panna_002.html",
+      "next": "toman_a_lesni_panna_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_004.html",
+      "words": 86,
+      "chars": 557,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "toman_a_lesni_panna_003.html",
+      "next": "toman_a_lesni_panna_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "toman_a_lesni_panna_004.html",
+      "next": "toman_a_lesni_panna_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_006.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 5,
+      "prev": "toman_a_lesni_panna_005.html",
+      "next": "toman_a_lesni_panna_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_007.html",
+      "words": 104,
+      "chars": 609,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 6,
+      "prev": "toman_a_lesni_panna_006.html",
+      "next": "toman_a_lesni_panna_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_008.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 7,
+      "prev": "toman_a_lesni_panna_007.html",
+      "next": "toman_a_lesni_panna_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_009.html",
+      "words": 189,
+      "chars": 1101,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 8,
+      "prev": "toman_a_lesni_panna_008.html",
+      "next": "toman_a_lesni_panna_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_010.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 9,
+      "prev": "toman_a_lesni_panna_009.html",
+      "next": "toman_a_lesni_panna_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_011.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 10,
+      "prev": "toman_a_lesni_panna_010.html",
+      "next": "toman_a_lesni_panna_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_012.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 11,
+      "prev": "toman_a_lesni_panna_011.html",
+      "next": "toman_a_lesni_panna_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_013.html",
+      "words": 132,
+      "chars": 704,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 12,
+      "prev": "toman_a_lesni_panna_012.html",
+      "next": "toman_a_lesni_panna_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_014.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 13,
+      "prev": "toman_a_lesni_panna_013.html",
+      "next": "toman_a_lesni_panna_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_015.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 14,
+      "prev": "toman_a_lesni_panna_014.html",
+      "next": "toman_a_lesni_panna_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_016.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 15,
+      "prev": "toman_a_lesni_panna_015.html",
+      "next": "toman_a_lesni_panna_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toman a lesní panna",
+      "file": "toman_a_lesni_panna_017.html",
+      "words": 53,
+      "chars": 330,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 16,
+      "prev": "toman_a_lesni_panna_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 580,
+      "chars": 3405,
+      "ideas": 131
+    },
+    "chapters": {
+      "words": 571,
+      "chars": 3349,
+      "ideas": 127
+    }
+  }
+}
