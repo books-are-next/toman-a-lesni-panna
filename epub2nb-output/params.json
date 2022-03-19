@@ -1,0 +1,208 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Toman a lesní panna",
+      "identifier": "362db732-c564-428f-87a6-448abf18a310",
+      "author": "František Ladislav Čelakovský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2018-11-06T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_001.md",
+        "xhtml": "toman_a_lesni_panna_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_002.md",
+        "xhtml": "toman_a_lesni_panna_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_003.md",
+        "xhtml": "toman_a_lesni_panna_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_004.md",
+        "xhtml": "toman_a_lesni_panna_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_005.md",
+        "xhtml": "toman_a_lesni_panna_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_006.md",
+        "xhtml": "toman_a_lesni_panna_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_007.md",
+        "xhtml": "toman_a_lesni_panna_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_008.md",
+        "xhtml": "toman_a_lesni_panna_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_009.md",
+        "xhtml": "toman_a_lesni_panna_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_010.md",
+        "xhtml": "toman_a_lesni_panna_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_011.md",
+        "xhtml": "toman_a_lesni_panna_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_012.md",
+        "xhtml": "toman_a_lesni_panna_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_013.md",
+        "xhtml": "toman_a_lesni_panna_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_014.md",
+        "xhtml": "toman_a_lesni_panna_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_015.md",
+        "xhtml": "toman_a_lesni_panna_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_016.md",
+        "xhtml": "toman_a_lesni_panna_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "toman_a_lesni_panna_017.md",
+        "xhtml": "toman_a_lesni_panna_017.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/01.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/02.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/03.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/04.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/05.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/06.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/07.jpg"
+      }
+    ],
+    "classes": [
+      "calibre12",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpobrazky1",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpversetoman",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection2",
+      "wordsection3",
+      "wordsection4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "toman-a-lesni-panna"
+    },
+    "generatedAt": 1647686106059
+  }
+}

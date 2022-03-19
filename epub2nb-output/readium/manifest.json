@@ -1,0 +1,152 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Toman a lesní panna",
+    "identifier": "362db732-c564-428f-87a6-448abf18a310",
+    "author": "František Ladislav Čelakovský",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2018-11-06T00:00:00.000Z",
+    "published": "2018-11-06T00:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/toman_a_lesni_panna_017.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/01.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/02.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/03.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/04.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/05.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/06.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/07.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Začátek knihy",
+      "href": "OEBPS/Text/toman_a_lesni_panna_001.html"
+    }
+  ]
+}

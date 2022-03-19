@@ -1,0 +1,203 @@
+.calibre {
+    display: block;
+    font-size: 0.75em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-style: italic
+    }
+.calibre2 {
+    font-family: "Cambria", "serif";
+    font-size: 1.33333em;
+    line-height: 110%
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: center;
+    margin: 0.5em auto;
+    border: currentColor inset 1px
+    }
+.calibre5 {
+    color: windowtext;
+    text-decoration: none
+    }
+.calibre6 {
+    height: 31px;
+    width: 88px
+    }
+.calibre7 {
+    height: 32px;
+    width: 88px
+    }
+.calibre8 {
+    height: 84px;
+    width: 84px
+    }
+.calibre9 {
+    height: 356px;
+    width: 469px
+    }
+.calibre10 {
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%
+    }
+.calibre11 {
+    height: 367px;
+    width: 429px
+    }
+.calibre12 {
+    display: block
+    }
+.calibre13 {
+    height: 334px;
+    width: 385px
+    }
+.calibre14 {
+    height: 261px;
+    width: 395px
+    }
+.calibre15 {
+    height: 272px;
+    width: 396px
+    }
+.calibre16 {
+    height: 463px;
+    width: 383px
+    }
+.calibre17 {
+    height: 403px;
+    width: 321px
+    }
+.mlplicencehypertext {
+    color: blue;
+    font-family: "Cambria", "serif";
+    font-variant: normal;
+    text-decoration: underline none underline;
+    text-transform: none;
+    vertical-align: baseline
+    }
+.mlplicenceobrazek {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 0.83333em;
+    text-align: center;
+    margin: 6pt 0 4.5pt
+    }
+.mlplicencetext {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 0.83333em;
+    line-height: 110%;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.mlpobrazky {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: center;
+    margin: 12pt 0 0.0001pt
+    }
+.mlpobrazky1 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: center;
+    margin: 12pt 0
+    }
+.mlptextbez1radku {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 0 0 0.0001pt
+    }
+.mlptextbez1radku1 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.mlptextbez1radku2 {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    text-align: justify;
+    margin: 12pt 0 0.0001pt
+    }
+.mlptirazautoranazev {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 110%;
+    margin: 0 0 0.0001pt
+    }
+.mlptitulkaautor {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1.4em;
+    line-height: 110%;
+    text-align: center;
+    margin: 18pt 0 0.0001pt
+    }
+.mlptitulkanazev {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 2em;
+    line-height: 110%;
+    text-align: center;
+    margin: 120pt 0 0.0001pt
+    }
+.mlpversetoman {
+    display: block;
+    font-family: "Cambria", "serif";
+    font-size: 1em;
+    line-height: 110%;
+    margin: 12pt 42.55pt 12pt 3cm
+    }
+.wordsection {
+    display: block;
+    page: WordSection1
+    }
+.wordsection1 {
+    display: block;
+    page: WordSection2
+    }
+.wordsection2 {
+    display: block;
+    page: WordSection3
+    }
+.wordsection3 {
+    display: block;
+    page: WordSection4
+    }
+.wordsection4 {
+    display: block;
+    page: WordSection5
+    }
+.pcalibre:link {
+    color: blue;
+    font-family: "Cambria", "serif";
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: underline
+    }
+.pcalibre1:visited {
+    color: purple;
+    text-decoration: underline
+    }
