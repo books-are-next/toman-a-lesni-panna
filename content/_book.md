@@ -13,7 +13,7 @@ meta:
   modified: '2018-11-06T00:00:00.000Z'
   publisherShort: mkp
 readingOrder:
-  - toman_a_lesni_panna_002.html
+  - promo.html
   - toman_a_lesni_panna_005.html
   - colophon.html
 tocBase:
