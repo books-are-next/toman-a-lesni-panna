@@ -1,21 +1,27 @@
 {
-  "author": "František Ladislav Čelakovský",
-  "contenttype": "poetry",
-  "identifier": "celakovsky-toman-a-lesni-panna-96c678d",
-  "languagecode": "cs",
-  "modified": "2018-11-06T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Toman a lesní panna",
-  "revision": "96c678d",
+  "author": "František Ladislav Čelakovský",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "celakovsky-toman-a-lesni-panna-75997ed",
+  "revision": "75997ed",
+  "readingOrder": [
+    "promo.html",
+    "toman_a_lesni_panna_005.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sat Mar 19 2022 10:54:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647687247826
+    "date": "Thu May 12 2022 13:49:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652363367285
   },
   "documents": [
     {
-      "title": "Toman a lesní panna",
-      "file": "toman_a_lesni_panna_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +29,7 @@
       "order": 0,
       "prev": null,
       "next": "toman_a_lesni_panna_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Toman a lesní panna",
@@ -41,7 +39,7 @@
       "ideas": 135,
       "role": "chapter",
       "order": 1,
-      "prev": "toman_a_lesni_panna_002.html",
+      "prev": "promo.html",
       "next": "colophon.html",
       "toc": [
         {
@@ -54,11 +52,11 @@
       ]
     },
     {
-      "title": "Tiráž • Toman a lesní panna",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 147,
-      "chars": 940,
-      "ideas": 22,
+      "words": 119,
+      "chars": 766,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "toman_a_lesni_panna_005.html",
@@ -76,9 +74,9 @@
   ],
   "totals": {
     "all": {
-      "words": 672,
-      "chars": 3909,
-      "ideas": 160
+      "words": 644,
+      "chars": 3735,
+      "ideas": 152
     },
     "chapters": {
       "words": 517,
