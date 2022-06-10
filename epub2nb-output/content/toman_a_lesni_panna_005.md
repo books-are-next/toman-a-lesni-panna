@@ -3,13 +3,23 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 ![01](./resources/01.jpg)
 
+</section>
 
+
+
+<section>
 
 ![02](./resources/02.jpg)
 
+</section>
 
+
+
+<section>
 
 Večer před svatým Janem  
 mluví sestra s Tomanem:  
@@ -42,11 +52,19 @@ nový domek jedna svíce,
 hostí mnoho pospolu,  
 jizba plna hovoru.
 
+</section>
 
+
+
+<section>
 
 ![03](./resources/03.jpg)
 
+</section>
 
+
+
+<section>
 
 Smutkem Toman obklopen  
 patří s koně do oken:  
@@ -102,11 +120,19 @@ půl kadeřmi černěné,
 a ze svatojanských broučků  
 svítí pásek na kloboučku.
 
+</section>
 
+
+
+<section>
 
 ![04](./resources/04.jpg)
 
+</section>
 
+
+
+<section>
 
 Třikrát kolem jak střela  
 v běhu koně objela,  
@@ -123,11 +149,19 @@ v oči se mu dívala
 lesní panna na jelenu,  
 Toman cítí v srdci změnu.
 
+</section>
 
+
+
+<section>
 
 ![05](./resources/05.jpg)
 
+</section>
 
+
+
+<section>
 
 Jedou, jedou pospolu  
 měkkým mechem do dolu,  
@@ -162,11 +196,19 @@ Tomanovi srdce plesá,
 uzdu pouští, s koně klesá  
 pod skalami prostřed lesa.
 
+</section>
 
+
+
+<section>
 
 ![06](./resources/06.jpg)
 
+</section>
 
+
+
+<section>
 
 Slunce vyšlo nad horu,  
 skáče koník do dvoru,  
@@ -177,6 +219,12 @@ a rukama zalomila:
 „Bratře můj, bratříčku můj,  
 kde skonal jsi život svůj!“
 
+</section>
 
+
+
+<section>
 
 ![07](./resources/07.jpg)
+
+</section>
