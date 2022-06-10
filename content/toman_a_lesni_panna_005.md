@@ -1,6 +1,6 @@
 ---
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
 
 ![01](./resources/01.jpg)
