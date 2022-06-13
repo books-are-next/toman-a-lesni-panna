@@ -10,14 +10,11 @@ contentType: poetry
 </section>
 
 
-
 <section>
 
 ![02](./resources/02.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -54,15 +51,11 @@ jizba plna hovoru.
 
 </section>
 
-
-
 <section>
 
 ![03](./resources/03.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -122,15 +115,11 @@ svítí pásek na kloboučku.
 
 </section>
 
-
-
 <section>
 
 ![04](./resources/04.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -151,15 +140,11 @@ Toman cítí v srdci změnu.
 
 </section>
 
-
-
 <section>
 
 ![05](./resources/05.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -198,15 +183,11 @@ pod skalami prostřed lesa.
 
 </section>
 
-
-
 <section>
 
 ![06](./resources/06.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -220,8 +201,6 @@ a rukama zalomila:
 kde skonal jsi život svůj!“
 
 </section>
-
-
 
 <section>
 
