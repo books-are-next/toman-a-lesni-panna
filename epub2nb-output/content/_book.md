@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2018-11-06T00:00:00.000Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - toman_a_lesni_panna_005.html
