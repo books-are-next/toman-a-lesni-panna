@@ -16,7 +16,7 @@ meta:
 readingOrder:
   - promo.html
   - toman_a_lesni_panna_005.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
