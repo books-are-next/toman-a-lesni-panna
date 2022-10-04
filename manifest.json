@@ -8,16 +8,16 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "celakovsky-toman-a-lesni-panna-1daac04",
-  "revision": "1daac04",
+  "identifier": "celakovsky-toman-a-lesni-panna-7677d25",
+  "revision": "7677d25",
   "readingOrder": [
     "promo.html",
     "toman_a_lesni_panna_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:06:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640391747
+    "date": "Tue Oct 04 2022 16:54:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902458818
   },
   "documents": [
     {
@@ -55,9 +55,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 130,
+      "words": 128,
       "chars": 859,
-      "ideas": 14,
+      "ideas": 12,
       "role": "about",
       "order": null,
       "prev": "toman_a_lesni_panna_005.html",
@@ -75,9 +75,9 @@
   ],
   "totals": {
     "all": {
-      "words": 656,
+      "words": 654,
       "chars": 3834,
-      "ideas": 153
+      "ideas": 151
     },
     "chapters": {
       "words": 517,
